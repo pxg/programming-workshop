@@ -9,7 +9,7 @@ For example, given the inputs:
  - tv_schedule_1.csv
  - "2016-01-26 21:03:09"
 
-The output should be "Silent Witness" and 183.
+The output should be "Silent Witness" and 189.
 
 ##Assumptions
 
