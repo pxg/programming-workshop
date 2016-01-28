@@ -70,9 +70,9 @@ class TestCurrentProgram(unittest.TestCase):
             (300, 'end of the world'),
         ]
 
-        result = current_program(data, 50)
+        result = current_program(data, 350)
 
-        self.assertEqual(result, 'end of the world')
+        self.assertEqual(result, 'end of the world 50')
 
 
 class LoadCSV(unittest.TestCase):

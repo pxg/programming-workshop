@@ -36,7 +36,7 @@ def current_program(data, timestamp):
 
 if __name__ == "__main__":
     file_name = str(sys.argv[1])
-    prog_time = int(sys.argv[2])
+    prog_time = str(sys.argv[2])
     print "Program starting at {time} according to {f}".format(
         time=prog_time,
         f=file_name,
