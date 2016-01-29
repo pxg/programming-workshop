@@ -1,0 +1,10 @@
+{
+  "name": "good_lund",
+  "version": "0.0.1",
+  "description": "The pointlessness and futility of all human endeavour dwarfed by the everlasting changelessness of the endless vacuum",
+  "author": "Good Lund",
+  "license": "wtfpl",
+  "dependencies": {
+    "csv": "^0.4.6"
+  }
+}
